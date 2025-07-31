@@ -2,9 +2,9 @@
 <h3 align="center">Software Engineer • AI/ML Enthusiast • Builder</h3>
 
 <p align="center">
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="GitHub followers"></a>
-  <a href="mailto:tanish@example.com"><img src="https://img.shields.io/badge/Email-me-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://linkedin.com/in/tanishvardhineni"><img src="https://img.shields.io/badge/LinkedIn-connect-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://github.com/tanish1608"><img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="GitHub followers"></a>
+  <a href="mailto:tv2291@nyu.edu"><img src="https://img.shields.io/badge/Email-me-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://linkedin.com/in/tanish00"><img src="https://img.shields.io/badge/LinkedIn-connect-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
 ---
