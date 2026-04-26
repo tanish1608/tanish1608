@@ -2,9 +2,9 @@
 
 # Hey, I'm Tanish. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-### Founding Engineer · 4x NYC Hackathon Champion · Patent Holder
+### Founding Engineer · 5x NYC Hackathon Champion · Patent Holder
 
-I don't just write code — I ship production systems that scale to millions.
+I don't just write code — I ship production systems that scale.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tanish.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanishvardhineni)
@@ -26,7 +26,7 @@ $ whoami
 | Metric | Value |
 |---|---|
 | **Production Users Served** | 10,000,000+ |
-| **NYC Hackathon Record** | 4 wins, 0 losses |
+| **NYC Hackathon Record** | 5 wins, 0 losses |
 | **Patents Filed** | 1 (AI + Hardware) |
 | **Enterprise Experience** | HSBC, Thunder Client |
 
